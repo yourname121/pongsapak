@@ -1,0 +1,235 @@
+.screen {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+}
+
+.screen .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1446px;
+  height: 829px;
+}
+
+.screen .overlap-group {
+  position: relative;
+  width: 1479px;
+  height: 894px;
+  top: -2px;
+}
+
+.screen .rectangle {
+  position: absolute;
+  width: 1446px;
+  height: 761px;
+  top: 70px;
+  left: 0;
+  background-color: #fdccf8;
+}
+
+.screen .ellipse {
+  background-color: #ffffff;
+  border-radius: 126px / 125px;
+  position: absolute;
+  width: 252px;
+  height: 250px;
+  top: 484px;
+  left: 135px;
+}
+
+.screen .img {
+  object-fit: cover;
+  position: absolute;
+  width: 252px;
+  height: 250px;
+  top: 484px;
+  left: 135px;
+}
+
+.screen .div {
+  position: absolute;
+  width: 647px;
+  height: 178px;
+  top: 507px;
+  left: 440px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper {
+  width: 572px;
+  top: 535px;
+  left: 478px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-2 {
+  width: 572px;
+  top: 616px;
+  left: 478px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-2 {
+  position: absolute;
+  width: 605px;
+  height: 68px;
+  top: 102px;
+  left: 449px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper-3 {
+  width: 466px;
+  top: 111px;
+  left: 560px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .image {
+  position: absolute;
+  width: 293px;
+  height: 319px;
+  top: 144px;
+  left: 147px;
+  object-fit: cover;
+}
+
+.screen .rectangle-3 {
+  position: absolute;
+  width: 637px;
+  height: 261px;
+  top: 189px;
+  left: 440px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper-4 {
+  width: 572px;
+  top: 206px;
+  left: 473px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-5 {
+  width: 572px;
+  top: 379px;
+  left: 466px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-6 {
+  width: 257px;
+  top: 317px;
+  left: 466px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-7 {
+  width: 572px;
+  top: 263px;
+  left: 473px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-4 {
+  position: absolute;
+  width: 647px;
+  height: 178px;
+  top: 716px;
+  left: 435px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper-8 {
+  width: 142px;
+  top: 715px;
+  left: 672px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-9 {
+  width: 26px;
+  top: 765px;
+  left: 733px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-5 {
+  position: absolute;
+  width: 1479px;
+  height: 90px;
+  top: 0;
+  left: 0;
+  background-color: #519bef;
+}
+
+.screen .rectangle-6 {
+  position: absolute;
+  width: 67px;
+  height: 59px;
+  top: 11px;
+  left: 11px;
+  object-fit: cover;
+}
