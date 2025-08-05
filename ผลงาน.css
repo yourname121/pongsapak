@@ -1,0 +1,266 @@
+.screen {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+}
+
+.screen .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 821px;
+}
+
+.screen .overlap-group {
+  position: relative;
+  height: 899px;
+  top: -26px;
+}
+
+.screen .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 821px;
+  top: 78px;
+  left: 0;
+  background-color: #fdccf8;
+}
+
+.screen .div {
+  position: absolute;
+  width: 326px;
+  height: 209px;
+  top: 141px;
+  left: 141px;
+  background-color: #d9d9d9;
+}
+
+.screen .rectangle-2 {
+  position: absolute;
+  width: 329px;
+  height: 209px;
+  top: 141px;
+  left: 592px;
+  background-color: #d9d9d9;
+}
+
+.screen .rectangle-3 {
+  position: absolute;
+  width: 323px;
+  height: 209px;
+  top: 141px;
+  left: 1023px;
+  background-color: #d9d9d9;
+}
+
+.screen .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 83px;
+  top: 764px;
+  left: 0;
+  background-color: #519bef;
+}
+
+.screen .rectangle-5 {
+  position: absolute;
+  width: 326px;
+  height: 203px;
+  top: 444px;
+  left: 141px;
+  background-color: #d9d9d9;
+}
+
+.screen .rectangle-6 {
+  position: absolute;
+  width: 329px;
+  height: 203px;
+  top: 444px;
+  left: 592px;
+  background-color: #d9d9d9;
+}
+
+.screen .rectangle-7 {
+  position: absolute;
+  width: 305px;
+  height: 203px;
+  top: 444px;
+  left: 1041px;
+  background-color: #d9d9d9;
+}
+
+.screen .text-wrapper {
+  width: 140px;
+  top: 82px;
+  left: 702px;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-2 {
+  width: 125px;
+  top: 369px;
+  left: 267px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-3 {
+  width: 125px;
+  top: 666px;
+  left: 267px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-4 {
+  width: 126px;
+  top: 666px;
+  left: 739px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-5 {
+  width: 125px;
+  top: 666px;
+  left: 1185px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-6 {
+  width: 125px;
+  top: 369px;
+  left: 1164px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-7 {
+  width: 126px;
+  top: 369px;
+  left: 729px;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .line {
+  position: absolute;
+  width: 329px;
+  height: 193px;
+  top: 153px;
+  left: 138px;
+}
+
+.screen .img {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: -17px;
+  left: 0;
+  object-fit: cover;
+}
+
+.screen .line-2 {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: 140px;
+  left: 592px;
+  object-fit: cover;
+}
+
+.screen .line-3 {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: 443px;
+  left: 138px;
+  object-fit: cover;
+}
+
+.screen .line-4 {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: 443px;
+  left: 593px;
+  object-fit: cover;
+}
+
+.screen .line-5 {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: 443px;
+  left: 1030px;
+  object-fit: cover;
+}
+
+.screen .line-6 {
+  position: absolute;
+  width: 330px;
+  height: 210px;
+  top: 139px;
+  left: 1023px;
+  object-fit: cover;
+}
+
+.screen .rectangle-8 {
+  position: absolute;
+  width: 1440px;
+  height: 83px;
+  top: 0;
+  left: 0;
+  background-color: #519bef;
+}
+
+.screen .rectangle-9 {
+  position: absolute;
+  width: 67px;
+  height: 59px;
+  top: 26px;
+  left: 10px;
+  object-fit: cover;
+}
