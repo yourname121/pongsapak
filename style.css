@@ -24,7 +24,7 @@
   left: 22px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: pink;
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
@@ -37,7 +37,7 @@
   left: 22px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: blue;
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
@@ -51,7 +51,7 @@
   left: 22px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: green;
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
@@ -65,7 +65,7 @@
   left: 22px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: olive;
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
@@ -79,7 +79,7 @@
   left: 22px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
-  color: #000000;
+  color: gray;
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
@@ -260,5 +260,6 @@
   left: 23px;
   object-fit: cover;
 }
+
 
 
