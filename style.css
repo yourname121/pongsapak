@@ -113,11 +113,11 @@
 }
 
 .screen .rectangle {
-  position: absolute;
-  width: 1440px;
-  height: 829px;
-  top: 6px;
-  left: 1px;
+  width: 100%;            /* takes full width of parent */
+  max-width: 800px;       /* optional, limits max size */
+  aspect-ratio: 16 / 9;   /* enforces 16:9 ratio */
+  object-fit: cover;      /* crop/fit inside ratio */
+  border-radius: 8px;     /* optional */
 }
 
 .screen .rectangle-2 {
@@ -260,6 +260,7 @@
   left: 23px;
   object-fit: cover;
 }
+
 
 
 
