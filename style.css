@@ -97,7 +97,7 @@
 }
 
 .screen .div {
-  background-color: #ffffff;
+  background-color: #126a3f;
   overflow: hidden;
   width: 1440px;
   height: 829px;
@@ -260,3 +260,4 @@
   left: 23px;
   object-fit: cover;
 }
+
