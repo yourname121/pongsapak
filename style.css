@@ -97,7 +97,7 @@
 }
 
 .screen .div {
-  background-color: #126a3f;
+  background-color: #ffffff;
   overflow: hidden;
   width: 1440px;
   height: 829px;
@@ -126,7 +126,7 @@
   height: 100px;
   top: 0;
   left: 0;
-  background-color: #1ae1f763;
+  background-color: #ffffff;
 }
 
 .screen .rectangle-3 {
@@ -151,7 +151,7 @@
   width: 409px;
   top: 157px;
   left: 325px;
-  color: #000000;
+  color: #0080FF;
   font-size: 30px;
   position: absolute;
   font-family: "Inter-Regular", Helvetica;
@@ -164,7 +164,7 @@
   width: 336px;
   top: 242px;
   left: 325px;
-  color: #000000;
+  color: #325416;
   font-size: 24px;
   position: absolute;
   font-family: "Inter-Regular", Helvetica;
@@ -217,7 +217,7 @@
   width: 441px;
   top: 215px;
   left: 870px;
-  color: #000000;
+  color: #af3594;
   font-size: 20px;
   position: absolute;
   font-family: "Inter-Regular", Helvetica;
@@ -230,7 +230,7 @@
   width: 493px;
   top: 420px;
   left: 870px;
-  color: #000000;
+  color: #cdbfa2;
   font-size: 20px;
   position: absolute;
   font-family: "Inter-Regular", Helvetica;
@@ -243,7 +243,7 @@
   width: 492px;
   top: 427px;
   left: 356px;
-  color: #000000;
+  color: #dab2e1;
   font-size: 24px;
   position: absolute;
   font-family: "Inter-Regular", Helvetica;
@@ -260,4 +260,5 @@
   left: 23px;
   object-fit: cover;
 }
+
 
