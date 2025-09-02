@@ -1,18 +1,118 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-* {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+.screen {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
 }
-html,
-body {
-  margin: 0px;
-  height: 100%;
+
+.screen .frame-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 829px;
 }
-/* a blue color as a generic focus style */
-button:focus-visible {
-  outline: 2px solid #4a90e2 !important;
-  outline: -webkit-focus-ring-color auto 5px !important;
+
+.screen .frame {
+  height: 829px;
+  background-color: #ffffff;
 }
-a {
-  text-decoration: none;
+
+.screen .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 846px;
+  top: -17px;
+}
+
+.screen .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 104px;
+  top: 742px;
+  left: 0;
+  background-color: #061bff;
+}
+
+.screen .div {
+  position: absolute;
+  width: 1440px;
+  height: 829px;
+  top: 17px;
+  left: 0;
+  background-color: #f6d7d7;
+}
+
+.screen .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 138px;
+  top: 0;
+  left: 0;
+  background-color: #a1a8f3;
+}
+
+.screen .rectangle-3 {
+  position: absolute;
+  width: 370px;
+  height: 118px;
+  top: 155px;
+  left: 523px;
+  background-color: #ffffff;
+}
+
+.screen .text-wrapper {
+  width: 140px;
+  top: 187px;
+  left: 640px;
+  font-size: 48px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .rectangle-4 {
+  position: absolute;
+  width: 857px;
+  height: 433px;
+  top: 309px;
+  left: 291px;
+  background-color: #ffffff;
+}
+
+.screen .p {
+  width: 757px;
+  top: 386px;
+  left: 345px;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .text-wrapper-2 {
+  position: absolute;
+  width: 757px;
+  top: 537px;
+  left: 341px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.screen .img {
+  position: absolute;
+  width: 67px;
+  height: 59px;
+  top: 39px;
+  left: 18px;
+  object-fit: cover;
 }
