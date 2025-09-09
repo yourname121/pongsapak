@@ -48,28 +48,18 @@ body {
     padding: 0;
 }
 
- /*.menu-icon-img {
-
+ .menu-icon-img {
     width: 100%;
-
     height: 100%;
-
     display: block;
-}*/
-
+}
 
 .menu-toggle,
-
 .home-button {
-
     background: none;
-
     border: none;
-
     cursor: pointer;
-
     padding: 0;
-
 }
 /* Menu Overlay */
 
