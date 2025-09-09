@@ -48,14 +48,14 @@ body {
     padding: 0;
 }
 
- .menu-icon-img {
+ /*.menu-icon-img {
 
     width: 100%;
 
     height: 100%;
 
     display: block;
-}
+}*/
 
 
 .menu-toggle,
@@ -179,5 +179,6 @@ body {
     text-align: center;
 
 }
+
 
 
